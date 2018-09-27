@@ -1,1 +1,3 @@
-echo # tchat_suporientation
+#Tchat bot for Sup'orientaion 
+
+site : suporientation.fr
