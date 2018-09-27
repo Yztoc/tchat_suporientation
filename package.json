@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Yztoc/tchat_suporientation/issues"
   },
-  "homepage": "https://github.com/Yztoc/tchat_suporientation#readme"
+  "homepage": "https://github.com/Yztoc/tchat_suporientation#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
 }
